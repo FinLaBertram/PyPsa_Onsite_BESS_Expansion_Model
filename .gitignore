@@ -18,3 +18,7 @@ Results/
 
 # Logs
 *.log
+
+Input/*.csv
+!Input/day_ahead_prices_germany_2025.csv
+!Input/hourly_load_2025_company.csv
